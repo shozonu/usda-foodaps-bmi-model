@@ -63,8 +63,8 @@ def azureml_main(df1 = None):
         "Clip 90%, X-Validated"
     ]
     for index,row in df1.iterrows():
-        df1["label"].iat[i] = d_label[index]
-        df1["model"].iat[i] = d_model[index]
-        df1["method"].iat[i] = d_method[index]
-        df1["extra"].iat[i] = d_extra[index]
+        df1["label"].iat[index] = d_label[index]
+        df1["model"].iat[index] = d_model[index]
+        df1["method"].iat[index] = d_method[index]
+        df1["extra"].iat[index] = d_extra[index]
     return df1
