@@ -9,11 +9,13 @@ Uses the frequency of various categories of food sources within various distance
 ### Result
 Out of the configurations tested, using Bayesian Linear Regression on clipped (data within 10 and 90 percentile) and binned (each frequency column quantized into 10 bins of percentiles) yielded the best overall result:
 
-Mean Absolute Error:           2.039
-Root Mean Squared Error:       2.737
-Relative Absolute Error:       0.566
-Relative Squared Error:        0.404
-Coefficient of Determination:  0.596
+Metric | Value
+----|----
+Mean Absolute Error:| 2.039
+Root Mean Squared Error:|2.737
+Relative Absolute Error:|0.566
+Relative Squared Error:|0.404
+Coefficient of Determination:|0.596
 
 For the purpose of BMI predictions, Mean Absolute Error is the most useful metric to gauge performance by.
 With a mean absolute error of ~2 in a dataset where mean BMI is 25, the predictions given by the model are fairly accurate within 2-3 standard deviations of the mean.
