@@ -18,7 +18,7 @@ Relative Squared Error:|0.404
 Coefficient of Determination:|0.596
 
 For the purpose of BMI predictions, Mean Absolute Error is the most useful metric to gauge performance by.
-With a mean absolute error of ~2 in a dataset where mean BMI is 25, the predictions given by the model are fairly accurate within 2-3 standard deviations of the mean.
+With a mean absolute error of ~2 in a dataset where mean BMI is 25, the predictions given by the model are fairly accurate for observations with true BMI within 2-3 standard deviations of the mean.
 
 #### USDA FoodAPS Data:
 https://www.ers.usda.gov/data-products/foodaps-national-household-food-acquisition-and-purchase-survey/
