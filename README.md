@@ -1,7 +1,7 @@
 # USDA FoodAPS BMI Modeling
 ## Spring 2019 CIS 3200 Data Processing/Analytics Project
 
-### Description
+### Goal
 Create a machine learning model using Azure ML Studio that can accurately predict an individual's body mass index (BMI) given the frequency of various food sources near their household.
 
 Uses the frequency of various categories of food sources within various distances to survey respondants' households.
