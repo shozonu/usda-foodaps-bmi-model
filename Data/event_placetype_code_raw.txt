@@ -1,0 +1,217 @@
+raw
+101
+92
+0.58
+Bakery specialty
+102
+438
+2.74
+Combination grocery/other
+103
+701
+4.38
+Convenience store
+104
+22
+0.14
+Delivery route
+105
+149
+0.93
+Direct marketing farmer
+106
+860
+5.38
+Dollar store
+107
+131
+0.82
+Farmers’ market
+108
+78
+0.49
+Food bank/pantry
+109
+26
+0.16
+Fruits/veg specialty
+110
+222
+1.39
+Gas station/market
+111
+232
+1.45
+Grocery store, large
+112
+286
+1.79
+Grocery store, medium
+113
+75
+0.47
+Grocery store, small
+114
+83
+0.52
+Grocery store, not further specified
+115
+140
+0.88
+Liquor store, winery
+116
+57
+0.36
+Meat/poultry specialty
+117
+14
+0.09
+Military commissary
+118
+22
+0.14
+Non-profit food-buying co-op
+119
+405
+2.53
+Pharmacy
+120
+12
+0.08
+Seafood specialty
+121
+5,489
+34.31
+Super store
+122
+4,968
+31.05
+Supermarket
+123
+434
+2.71
+Club wtores
+124
+7
+0.04
+Wholesale
+201
+26
+0.16
+Bakery (including bagel, donut, and cookie shops)
+204
+7
+0.04
+Café & bakery-café
+205
+2
+0.01
+Chicken restaurant
+206
+14
+0.09
+Coffee shop (including tea house)
+207
+1
+0.01
+Dairy desserts (ice cream, frozen yogurt)
+209
+18
+0.11
+Misc specialty (candy, cheese, juice, pretzel, popcorn)
+211
+8
+0.05
+Restaurant, American
+214
+8
+0.05
+Restaurant, Mexican/Tex-Mex/Latin American
+217
+1
+0.01
+Restaurant, not further specified
+218
+15
+0.09
+Sandwich shop (including deli & salad shops)
+219
+3
+0.02
+Travel place (airport, hotel, truck stop)
+220
+5
+0.03
+Vending machine, food truck
+303
+1
+0.01
+Camp, after-school program
+306
+3
+0.02
+College
+309
+3
+0.02
+Fair, concert, amusement park
+310
+161
+1.01
+Family
+311
+26
+0.16
+Fishing/hunting
+313
+145
+0.91
+Friend
+314
+292
+1.83
+Garden, home
+315
+73
+0.46
+Garden, other
+318
+7
+0.04
+Institution
+319
+5
+0.03
+Meals on Wheels
+322
+103
+0.64
+Nonfood retailer
+323
+4
+0.03
+Park, community center
+324
+4
+0.03
+Party, cookout
+325
+51
+0.32
+Place of worship
+326
+1
+0.01
+Preschool
+327
+4
+0.03
+School
+328
+16
+0.10
+Work
+402
+48
+0.30
+Unknown
